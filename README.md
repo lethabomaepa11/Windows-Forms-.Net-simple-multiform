@@ -10,4 +10,4 @@ capturers who are employed by the government. </p>
   <li>Visual Studio 2019 or newer version</li>
   <li>.NET FRAMEWORK 4 or newer</li>
 </ul>
-<br>That's all, now download the code and run it.
+<br>That's all, now clone the code and run it.
