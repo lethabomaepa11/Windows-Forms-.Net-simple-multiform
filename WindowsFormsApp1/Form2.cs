@@ -59,6 +59,7 @@ namespace WindowsFormsApp1
 
         private void btnClose_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Closing...");
             this.Close();
         }
 
